@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\asd6(heap)\x64\Debug\asd6(heap).exe
+C:\Users\admin\source\repos(c++)\asd6(heap)\x64\Debug\asd6(heap).exe

@@ -1,0 +1,25 @@
+﻿  main.cpp
+  The contents of <memory_resource> are available only with C++17 or later.
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\main.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\main.cpp(63,25): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\main.cpp(69,57): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\main.cpp(93,57): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\main.cpp(117,57): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\AVL_Tree.h(536,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\AVL_Tree.h(533): message : во время компиляции функции-члена класс шаблон "void AVL_Tree<int,std::less<int>,std::allocator<int>>::balanse(AVL_Tree<int,std::less<int>,std::allocator<int>>::iterator)"
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\AVL_Tree.h(591): message : выполняется компиляция ссылки на экземпляр шаблон функции "void AVL_Tree<int,std::less<int>,std::allocator<int>>::balanse(AVL_Tree<int,std::less<int>,std::allocator<int>>::iterator)"
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\main.cpp(46): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "AVL_Tree<int,std::less<int>,std::allocator<int>>"
+C:\Users\admin\source\repos(c++)\asd8(Hashtable)\AVL_Tree.h(971): warning C4715: AVL_Tree<int,std::less<int>,std::allocator<int> >::delwithonechild: значение возвращается не при всех путях выполнения
+  asd8(Hashtable).vcxproj -> C:\Users\admin\source\repos(c++)\asd8(Hashtable)\x64\Debug\asd8(Hashtable).exe

@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\asd7\x64\Debug\asd7.exe
+C:\Users\admin\source\repos(c++)\asd7\x64\Debug\asd7.exe

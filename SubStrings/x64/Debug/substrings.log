@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\admin\source\repos(c++)\SubStrings\main.cpp(24,80): warning C4244: return: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\admin\source\repos(c++)\SubStrings\main.cpp(46,14): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  substrings.vcxproj -> C:\Users\admin\source\repos\substrings\x64\Debug\substrings.exe

@@ -1,0 +1,16 @@
+﻿  Substrings.cpp
+C:\Users\admin\source\repos(c++)\SubStrings\Substrings.cpp(20,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos(c++)\SubStrings\Substrings.cpp(21,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+C:\Users\admin\source\repos(c++)\SubStrings\main.cpp(24,80): warning C4244: return: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\admin\source\repos(c++)\SubStrings\main.cpp(46,14): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Создание кода
+  3 of 290 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SubStrings.vcxproj -> C:\Users\admin\source\repos(c++)\SubStrings\x64\Release\SubStrings.exe

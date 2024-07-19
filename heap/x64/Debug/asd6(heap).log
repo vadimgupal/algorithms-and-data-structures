@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\admin\source\repos(c++)\asd6(heap)\main.cpp(38,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos(c++)\asd6(heap)\Heap.h(62,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos(c++)\asd6(heap)\Heap.h(60): message : во время компиляции функции-члена класс шаблон "void Heap<std::string,std::vector<std::string,std::allocator<std::string>>,Compare>::push(T)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\admin\source\repos(c++)\asd6(heap)\main.cpp(158): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Heap<std::string,std::vector<std::string,std::allocator<std::string>>,Compare>::push(T)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\admin\source\repos(c++)\asd6(heap)\main.cpp(154): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Heap<std::string,std::vector<std::string,std::allocator<std::string>>,Compare>"
+C:\Users\admin\source\repos(c++)\asd6(heap)\Heap.h(96,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos(c++)\asd6(heap)\Heap.h(96): message : во время компиляции функции-члена класс шаблон "int Heap<int,std::vector<int,std::allocator<int>>,std::less<int>>::size(void) const"
+C:\Users\admin\source\repos(c++)\asd6(heap)\main.cpp(72): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Heap<int,std::vector<int,std::allocator<int>>,std::less<int>>::size(void) const"
+C:\Users\admin\source\repos(c++)\asd6(heap)\main.cpp(59): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Heap<int,std::vector<int,std::allocator<int>>,std::less<int>>"
+C:\Users\admin\source\repos(c++)\asd6(heap)\sortarr.h(77,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos(c++)\asd6(heap)\sortarr.h(77): message : во время компиляции функции-члена класс шаблон "int sortarr<int,std::vector<int,std::allocator<int>>,std::less<int>>::size(void) const"
+C:\Users\admin\source\repos(c++)\asd6(heap)\main.cpp(49): message : выполняется компиляция ссылки на экземпляр шаблон функции "int sortarr<int,std::vector<int,std::allocator<int>>,std::less<int>>::size(void) const"
+C:\Users\admin\source\repos(c++)\asd6(heap)\main.cpp(25): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "sortarr<int,std::vector<int,std::allocator<int>>,std::less<int>>"
+C:\Users\admin\source\repos(c++)\asd6(heap)\Heap.h(81,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos(c++)\asd6(heap)\main.cpp(124): message : выполняется компиляция ссылки на экземпляр шаблон функции "Heap<int,std::vector<int,std::allocator<int>>,std::less<int>>::Heap<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>(it,it)"
+          with
+          [
+              _Ty=int,
+              it=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>
+          ]
+C:\Users\admin\source\repos(c++)\asd6(heap)\main.cpp(124): message : выполняется компиляция ссылки на экземпляр шаблон функции "Heap<int,std::vector<int,std::allocator<int>>,std::less<int>>::Heap<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>(it,it)"
+          with
+          [
+              _Ty=int,
+              it=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>
+          ]
+  asd6(heap).vcxproj -> C:\Users\admin\source\repos(c++)\asd6(heap)\x64\Debug\asd6(heap).exe
